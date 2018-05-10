@@ -1,0 +1,5 @@
+NET "CLK" LOC = "D11";
+NET "PSW0" LOC = "D6";
+NET "LED0" LOC = "F13";
+NET "LED1" LOC = "C11";
+NET "LED2" LOC = "C9";
